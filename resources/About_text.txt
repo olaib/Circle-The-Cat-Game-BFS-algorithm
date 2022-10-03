@@ -1,0 +1,15 @@
+                          ABOUT THE GAME: Circle The Cat
+                          ==============================
+          is a puzzle game where you draw circles around a cat in an attempt to trap it. 
+          Click the dots and stop the cat from escaping!
+          ===============================================
+          How to Play:
+          Click the circles to create a barrier. Capturing the cat can be quite tricky. 
+          It’s best to start from further away from the cat, because if you build too close,
+          that cat will always find a way to squeeze past!
+
+          When you’ve figured it out and built a fairly wide, closed perimeter, you must then fill it
+          with circles until the cat has no circles to jump to. At this point, you’ve circled the cat,
+          and the game starts again.
+          ===============================================
+          created by : Ola Ibrahim && Abigail untershatz (;
