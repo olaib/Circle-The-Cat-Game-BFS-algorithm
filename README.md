@@ -1,7 +1,7 @@
 # Circle-The-Cat-Game-BFS-algorithm
 
 <p align="center">
-  <img src="./assets/circle-cat-game.png" alt="game" width="300" />
+  <img src="./resources/textures/circle-cat-game.png" alt="game" width="300" />
 </p>
 
 # About the Game
