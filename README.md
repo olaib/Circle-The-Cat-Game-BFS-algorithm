@@ -5,8 +5,8 @@
 </p>
 
 ## Tools/Frameworks:
-* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-* ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+* ![SFML](https://img.shields.io/badge/SFML-8EA2EE?style=for-the-badge&logo=sfml&logoColor=white)
+* ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # About the Game
 Circle the Cat is a puzzle game where you draw circles by clicking the dots around a cat in an attempt to trap it,  the cat can be quite tricky by using BFS-algorithm, you have to stop the cat from escaping!.
