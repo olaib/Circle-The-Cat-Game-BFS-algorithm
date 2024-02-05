@@ -1,4 +1,10 @@
 # Circle-The-Cat-Game-BFS-algorithm
+
+<p align="center">
+  <img src="./assets/circle-cat-game.png" alt="game" width="300" />
+</p>
+
+# About the Game
 Circle the Cat is a puzzle game where you draw circles by clicking the dots around a cat in an attempt to trap it,  the cat can be quite tricky by using BFS-algorithm, you have to stop the cat from escaping!.
 
 # How to Play:
